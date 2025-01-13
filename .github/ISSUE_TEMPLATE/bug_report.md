@@ -10,6 +10,11 @@ labels: bug, New version
 - [ ] You have tested it with only Create interactive, Create, Valkyrien Skies and Kotlin for Forge installed. (KFF only needed on forge)
 - [ ] The bug hasn't been reported already.
 
+### Newest version of Interactive is 1.1.1-beta.3. Get it from the Valkyrien Skies discord
+*You can remove this and the line above once you have made sure your issue happens on 1.1.1*
+
+***
+
 **Describe the bug**
 *A description of what the bug is, remove this line*
 
